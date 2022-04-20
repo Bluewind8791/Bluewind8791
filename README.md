@@ -1,4 +1,4 @@
-<center>**NO EFFORT, NO RESULTS**</center>
+##**NO EFFORT, NO RESULTS**
 
 ### 안녕하세요! 👋
 
