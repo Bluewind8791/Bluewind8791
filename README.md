@@ -1,6 +1,6 @@
-### <center>**NO EFFORT, NO RESULTS**</center>
+<center>**NO EFFORT, NO RESULTS**</center>
 
-### 무역에서 개발자로! 👋
+### 안녕하세요! 👋
 
 무역사무원으로써 성장가능성에 한계를 느껴서 이직을 결심.  
 개발을 알게되고 개발을 사랑하게 된, 개발자로써의 제2의 인생을 꿈꾸며 준비하는 신입🌱 개발자입니다.  
