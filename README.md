@@ -1,4 +1,4 @@
-## <center>**NO EFFORT, NO RESULTS**</center>
+### <center>**NO EFFORT, NO RESULTS**</center>
 
 ### 무역에서 개발자로! 👋
 
@@ -10,15 +10,15 @@ Back-End 개발자 취직을 목표로 알고리즘, Java, Spring Boot, AWS, CI/
 
 
 
-### 기술 블로그 📖
+### 📖 기술 블로그 📖
 
 개발 공부 정리를 올려두는 기술 [블로그](https://bluewind8791.github.io/)를 운영중입니다.  
 시간 나는대로 내용을 더 다듬어서 티스토리로 이관할 예정입니다 😄
 
 
-### 주요 프로젝트 ⌨
+### ⌨ 주요 프로젝트 ⌨
 
-#### **[MUKCHA](https://github.com/Bluewind8791/mukcha)**
+### **[MUKCHA](https://github.com/Bluewind8791/mukcha)**
 
 - 사이트 [바로가기](http://ec2-3-39-16-219.ap-northeast-2.compute.amazonaws.com/)
 - 개인 프로젝트
@@ -29,6 +29,6 @@ Back-End 개발자 취직을 목표로 알고리즘, Java, Spring Boot, AWS, CI/
 - 인터넷 강의를 따라 만드는 것이 아닌, 제가 사용하고 싶은 서비스를 직접 부딪히며 만들어 보면서 실제로 해당 기술들을 어떻게 사용하는지 왜 필요한지를 알 수 있었습니다. 또한 백엔드 개발자는 백엔드만 할 줄 알면 된다고 생각했었는데, 이 프로젝트를 통하여 전반적인 넓은 이해가 필요하다는 것을 알게 되었습니다.
 
 
-### Contact Me ☎
+### Contact Me
 
 E-mail : bluewind@kakao.com
