@@ -1,7 +1,10 @@
+## <center>**NO EFFORT, NO RESULTS**</center>
+
 ### 무역에서 개발자로! 👋
 
-무역사무원으로써 성장가능성에 한계를 느껴서 이직을 결심.
-개발을 알게되고 개발을 사랑하게 된, 개발자로써의 제2의 인생을 꿈꾸며 준비하는 신입🌱 개발자입니다.
+무역사무원으로써 성장가능성에 한계를 느껴서 이직을 결심.  
+개발을 알게되고 개발을 사랑하게 된, 개발자로써의 제2의 인생을 꿈꾸며 준비하는 신입🌱 개발자입니다.  
+
 
 Back-End 개발자 취직을 목표로 알고리즘, Java, Spring Boot, AWS, CI/CD 등등을 공부를 하고 있습니다.
 
@@ -9,13 +12,13 @@ Back-End 개발자 취직을 목표로 알고리즘, Java, Spring Boot, AWS, CI/
 
 ### 기술 블로그 📖
 
-개발 공부 정리를 올려두는 기술 [블로그](https://bluewind8791.github.io/)를 운영중입니다.
+개발 공부 정리를 올려두는 기술 [블로그](https://bluewind8791.github.io/)를 운영중입니다.  
 시간 나는대로 내용을 더 다듬어서 티스토리로 이관할 예정입니다 😄
 
 
 ### 주요 프로젝트 ⌨
 
-#### [MUKCHA](https://github.com/Bluewind8791/mukcha)
+#### **[MUKCHA](https://github.com/Bluewind8791/mukcha)**
 
 - 사이트 [바로가기](http://ec2-3-39-16-219.ap-northeast-2.compute.amazonaws.com/)
 - 개인 프로젝트
