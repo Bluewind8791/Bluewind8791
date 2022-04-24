@@ -12,8 +12,8 @@ Back-End 개발자 취직을 목표로 알고리즘, Java, Spring Boot, AWS, CI/
 
 ### 📖 기술 블로그 📖
 
-개발 공부 정리를 올려두는 기술 [블로그](https://bluewind8791.github.io/)를 운영중입니다.  
-시간 나는대로 내용을 더 다듬어서 티스토리로 이관할 예정입니다 😄
+개발 공부 정리를 올려두는 [기술 블로그](https://bluewind8791.github.io/)를 운영중입니다.  
+시간 나는대로 내용을 더 다듬어서 [velog](https://velog.io/@bluewind8791)로 이관하고 있습니다 😄
 
 
 ### ⌨ 주요 프로젝트 ⌨
