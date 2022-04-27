@@ -59,7 +59,7 @@
 <h3 align="center">📖 BLOG 📖</h3>
 
 <p align="center">
-  개발 공부 정리를 올려두는 [기술 블로그](https://bluewind8791.github.io/)를 운영중입니다.
+  개발 공부 정리를 올려두는 <a href="https://bluewind8791.github.io">기술 블로그</a>를 운영중입니다.
   <br>
   시간 나는대로 내용을 더 다듬어서 <img alt="velog" src="https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white" /> 로 이관하고 있습니다 😄
 </p>
