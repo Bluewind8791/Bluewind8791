@@ -63,7 +63,7 @@
   <br>
 
   <h3>⌨ Main Project ⌨</h3>
-  <div align="left" style="padding:10px;">
+  <div align="left">
     <h3><a href="https://github.com/Bluewind8791/mukcha">MUKCHA</a></h3>
     <li>
       사이트 [바로가기](http://ec2-3-39-16-219.ap-northeast-2.compute.amazonaws.com/)
