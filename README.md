@@ -3,10 +3,24 @@
 <h3 align="center">안녕하세요! 👋</h3>
 
 <p align="center">
-  무역사무원으로써 성장가능성에 한계를 느껴서 이직을 결심.
-  <br>
-  개발을 알게되고 개발을 사랑하게 된, 개발자로써의 제2의 인생을 꿈꾸며 준비하는 신입🌱 개발자입니다.  
+  무역사무원으로써 성장가능성에 한계를 느껴서 이직을 결심. <br>
+  개발자로써의 제2의 인생을 꿈꾸며 준비하는 신입🌱 개발자입니다.
 </p>
+
+<details align="center">
+  <summary><h4>왜 개발자를?</h4></summary>
+
+  <p>
+    일단, 코딩 공부가 재밌었습니다. <br>
+    학생 때부터 프로그래밍을 접했었더라면 참 좋았겠지만, 30대가 되서야 프로그래밍을 접하게 되었습니다. <br>
+    코딩을 하며 기능을 구현하고 서비스하다보면 많은 문제들을 마주칩니다. <br>
+    몇시간이 걸리든 포기하지 않고 고민하고 분석해서 문제를 해결하면, 그때 느끼는 쾌감은 받았던 스트레스의 배는 되는것 같습니다. <br>
+    이 직업이라면 즐겁게 오래 일할 수 있을꺼라 생각하여 개발자로 전향하게 되었습니다. <br>
+    <br>
+    저는 앞으로의 시대에서는 본인의 기술력이 있어야 살아남는 시대가 될것이라고 생각합니다. <br>
+    저는 나이에 상관없이 변화를 두려워 하지않고 꾸준히 학습하여 본인의 스킬을 계속 향상시킬 수 있는 개발자가 되고 싶습니다.
+  </p>
+</details>
 
 <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -32,6 +46,7 @@
 
 <p align="center">
   <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
   <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
 </p>
 
