@@ -61,34 +61,36 @@
       src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
   </p>
   <br>
+
   <h3>⌨ Main Project ⌨</h3>
-
-  <h4><a href="https://github.com/Bluewind8791/mukcha">MUKCHA</a></h4>
-  <li>
-    사이트 [바로가기](http://ec2-3-39-16-219.ap-northeast-2.compute.amazonaws.com/)
-  </li>
-  <li>
-    개인 프로젝트
-  </li>
-  <li>
-    사용자가 프랜차이즈 메뉴들을 평가하는 서비스를 제공하는 웹사이트 프로젝트입니다.
-  </li>
-  <li>
-    프론트엔드는 BootStrap 및 Thymeleaf 를 사용하여 간단하게 구현하였고, 백엔드는 Spring Boot, JPA, Security, OAuth2등의 기술을 사용하여 구현하였습니다.
-  </li>
-  <li>
-    AWS EC2 서버를 사용하여 24시간 라이브 서비스를 제공하고, CI/CD를 사용하여 자동배포, NginX를 사용하여 무중단 배포를 간단하게 구현하였습니다.
-  </li>
-  <li>
-    개발 완료가 아닌 꾸준하게 유지보수 및 하자보수 중입니다.
-  </li>
-  <li>
-    인터넷 강의를 따라 만드는 것이 아닌, 제가 사용하고 싶은 서비스를 직접 부딪히며 만들어 보면서 실제로 해당 기술들을 어떻게 사용하는지 왜 필요한지를 알 수 있었습니다. 또한 백엔드 개발자는 백엔드만 할 줄
-    알면 된다고 생각했었는데, 이 프로젝트를 통하여 전반적인 넓은 이해가 필요하다는 것을 알게 되었습니다.
-  </li>
+  <div align="left" style="padding:10px;">
+    <h3><a href="https://github.com/Bluewind8791/mukcha">MUKCHA</a></h3>
+    <li>
+      사이트 [바로가기](http://ec2-3-39-16-219.ap-northeast-2.compute.amazonaws.com/)
+    </li>
+    <li>
+      개인 프로젝트
+    </li>
+    <li>
+      사용자가 프랜차이즈 메뉴들을 평가하는 서비스를 제공하는 웹사이트 프로젝트입니다.
+    </li>
+    <li>
+      프론트엔드는 BootStrap 및 Thymeleaf 를 사용하여 간단하게 구현하였고, 백엔드는 Spring Boot, JPA, Security, OAuth2등의 기술을 사용하여 구현하였습니다.
+    </li>
+    <li>
+      AWS EC2 서버를 사용하여 24시간 라이브 서비스를 제공하고, CI/CD를 사용하여 자동배포, NginX를 사용하여 무중단 배포를 간단하게 구현하였습니다.
+    </li>
+    <li>
+      개발 완료가 아닌 꾸준하게 유지보수 및 하자보수 중입니다.
+    </li>
+    <li>
+      인터넷 강의를 따라 만드는 것이 아닌, 제가 사용하고 싶은 서비스를 직접 부딪히며 만들어 보면서 실제로 해당 기술들을 어떻게 사용하는지 왜 필요한지를 알 수 있었습니다. 또한 백엔드 개발자는 백엔드만 할 줄
+      알면 된다고 생각했었는데, 이 프로젝트를 통하여 전반적인 넓은 이해가 필요하다는 것을 알게 되었습니다.
+    </li>
+  </div>
   <br>
-  <h3>📖 BLOG 📖</h3>
 
+  <h3>📖 BLOG 📖</h3>
   <p>
     개발 공부 정리를 올려두는 <a href="https://bluewind8791.github.io">기술 블로그</a>를 운영중입니다.
     <br>
@@ -98,7 +100,6 @@
 
   <br>
   <h3>Contact Me</h3>
-
   <p>
     <!--   <img alt="velog" src="https://img.shields.io/badge/-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /> -->
     <a href="mailto:bluewind@kakao.com"><img
