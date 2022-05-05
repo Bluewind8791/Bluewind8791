@@ -66,7 +66,7 @@
   <div align="left">
     <h3><a href="https://github.com/Bluewind8791/mukcha">MUKCHA</a></h3>
     <li>
-      사이트 [바로가기](http://ec2-3-39-16-219.ap-northeast-2.compute.amazonaws.com/)
+      Live WebPage - <a href="http://ec2-3-39-16-219.ap-northeast-2.compute.amazonaws.com/">바로가기</a>
     </li>
     <li>
       개인 프로젝트
