@@ -37,15 +37,20 @@
       src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
     <img alt="spring-security"
       src="https://img.shields.io/badge/-SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+    <img alt="jpa" src="https://img.shields.io/badge/-JPA-6DB33F?style=for-the-badge" />
     <br>
     <img alt="aws" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img alt="travis"
-      src="https://img.shields.io/badge/-TravisCI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
-    <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img alt="travis" src="https://img.shields.io/badge/-TravisCI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
+    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+    <br>
+    <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+        
   </p>
-  <p> 배우고 싶은 기술들 </p>
+  <p> 관심있거나 학습중인 기술들 </p>
   <p>
     <img alt="docker"
       src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -63,33 +68,20 @@
   <br>
 
   <h3>⌨ Main Project ⌨</h3>
-  <div align="left">
-    <h3><a href="https://github.com/Bluewind8791/mukcha">MUKCHA</a></h3>
-    <li>
-      Live WebPage - <a href="http://ec2-3-39-16-219.ap-northeast-2.compute.amazonaws.com/">바로가기</a>
-    </li>
-    <li>
-      개인 프로젝트
-    </li>
-    <li>
-      사용자가 프랜차이즈 메뉴들을 평가하는 서비스를 제공하는 웹사이트 프로젝트입니다.
-    </li>
-    <li>
-      프론트엔드는 BootStrap 및 Thymeleaf 를 사용하여 간단하게 구현하였고, 백엔드는 Spring Boot, JPA, Security, OAuth2등의 기술을 사용하여 구현하였습니다.
-    </li>
-    <li>
-      AWS EC2 서버를 사용하여 24시간 라이브 서비스를 제공하고, CI/CD를 사용하여 자동배포, NginX를 사용하여 무중단 배포를 간단하게 구현하였습니다.
-    </li>
-    <li>
-      개발 완료가 아닌 꾸준하게 유지보수 및 하자보수 중입니다.
-    </li>
-    <li>
-      인터넷 강의를 따라 만드는 것이 아닌, 제가 사용하고 싶은 서비스를 직접 부딪히며 만들어 보면서 실제로 해당 기술들을 어떻게 사용하는지 왜 필요한지를 알 수 있었습니다. 또한 백엔드 개발자는 백엔드만 할 줄
-      알면 된다고 생각했었는데, 이 프로젝트를 통하여 전반적인 넓은 이해가 필요하다는 것을 알게 되었습니다.
-    </li>
+  
+  <div>
+    <h3>먹챠(MUKCHA)</h3>
+    <p>개인 프로젝트</p>
+    <p>프랜차이즈 메뉴 평가 및 기록 서비스</p>
+    <a href="https://github.com/Bluewind8791/mukcha">
+      <img alt="GitHub" src="https://img.shields.io/badge/-GitHub Code-20C997?style=for-the-badge&logo=GitHub&logoColor=white" />
+    </a>
+    <a href="http://ec2-3-39-16-219.ap-northeast-2.compute.amazonaws.com/">
+      <img alt="Live WebPage" src="https://img.shields.io/badge/-Live WebPage-0076D6?style=for-the-badge" />
+    </a>
   </div>
+ 
   <br>
-
   <h3>📖 BLOG 📖</h3>
   <p>
     개발 공부 정리를 올려두는 <a href="https://bluewind8791.github.io">기술 블로그</a>를 운영중입니다.
