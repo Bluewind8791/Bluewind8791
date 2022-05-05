@@ -70,13 +70,13 @@
   <h3>⌨ Main Project ⌨</h3>
   <h3><strong>먹챠(MUKCHA)</strong></h3>
   <p>프랜차이즈 메뉴 평가 및 기록 서비스</p>
-  <img src="image/mukcha-mainpage.png" />
   <a href="https://github.com/Bluewind8791/mukcha">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub Code-20C997?style=for-the-badge&logo=GitHub&logoColor=white" />
   </a>
   <a href="http://ec2-3-39-16-219.ap-northeast-2.compute.amazonaws.com/">
     <img alt="Live WebPage" src="https://img.shields.io/badge/-Live WebPage-0076D6?style=for-the-badge" />
   </a>
+  <img src="image/mukcha-mainpage.png" />
   <br>
   <h3>📖 BLOG 📖</h3>
   <p>
