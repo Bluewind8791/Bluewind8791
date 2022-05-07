@@ -34,20 +34,21 @@
     <img alt="spring"
       src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img alt="spring-boot"
-      src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+      src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
     <img alt="spring-security"
-      src="https://img.shields.io/badge/-SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+      src="https://img.shields.io/badge/-Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
     <img alt="jpa" src="https://img.shields.io/badge/-JPA-6DB33F?style=for-the-badge" />
     <br>
     <img alt="aws" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img alt="travis" src="https://img.shields.io/badge/-TravisCI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
+    <img alt="travis" src="https://img.shields.io/badge/-Travis CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
     <br>
     <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap5-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
         
   </p>
   <p> 관심있거나 학습중인 기술들 </p>
