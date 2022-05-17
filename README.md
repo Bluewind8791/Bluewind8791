@@ -33,11 +33,11 @@
     <img alt="java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="spring"
       src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img alt="spring-boot"
+    <img alt="spring boot"
       src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-    <img alt="spring-security"
+    <img alt="spring security"
       src="https://img.shields.io/badge/-Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-    <img alt="jpa" src="https://img.shields.io/badge/-JPA-6DB33F?style=for-the-badge" />
+    <img alt="spring data jpa" src="https://img.shields.io/badge/-Spring Data JPA-6DB33F?style=for-the-badge" />
     <br>
     <img alt="aws" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img alt="travis" src="https://img.shields.io/badge/-Travis CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
