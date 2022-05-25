@@ -93,7 +93,7 @@
     <!--   <img alt="velog" src="https://img.shields.io/badge/-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /> -->
     <a href="mailto:bluewind@kakao.com"><img
         src="https://img.shields.io/badge/-MAIL-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=bluewind@kakao.com" /></a>
-    <a href="https://www.notion.so/bluewind8791/7547051b3f1f4d4faa6efd8bc8283bef"><img
+    <a href="https://bluewind8791.notion.site/7547051b3f1f4d4faa6efd8bc8283bef"><img
         src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
   </p>
 
