@@ -5,7 +5,6 @@
   <h3>안녕하세요! 👋</h3>
 
   <p>
-    무역사무원으로써 성장가능성에 한계를 느껴서 이직을 결심. <br>
     개발자로써의 제2의 인생을 꿈꾸며 준비하는 신입🌱 개발자입니다.
   </p>
 
@@ -49,16 +48,6 @@
     <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap5-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
-        
-  </p>
-  <p> 관심있거나 학습중인 기술들 </p>
-  <p>
-    <img alt="docker"
-      src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img alt="Jenkins"
-      src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-    <img alt="Elasticsearch"
-      src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
   </p>
   <p> Tools </p>
   <p>
@@ -66,6 +55,16 @@
     <img alt="VSCode"
       src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
   </p>
+  <p> 관심있거나 학습중인 기술들 </p>
+  <p>
+    <img alt="docker"
+      src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Jenkins"
+      src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+<!--     <img alt="Elasticsearch"
+      src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white" /> -->
+  </p>
+  
   <br>
 
   <h3>⌨ Main Project ⌨</h3>
@@ -77,6 +76,7 @@
   <a href="http://ec2-3-39-16-219.ap-northeast-2.compute.amazonaws.com/">
     <img alt="Live WebPage" src="https://img.shields.io/badge/-Live WebPage-0076D6?style=for-the-badge" />
   </a>
+  <br>
   <img src="image/mukcha-mainpage.png" />
   <br>
   <h3>📖 BLOG 📖</h3>
@@ -84,7 +84,7 @@
     개발 공부 정리를 올려두는 <a href="https://bluewind8791.github.io">기술 블로그</a>를 운영중입니다.
     <br>
     시간 나는대로 내용을 더 다듬어서 <img alt="velog"
-      src="https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white" /> 로 이관하고 있습니다 😄
+      src="https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white" /> 로 글들을 이전하고 있습니다 😄
   </p>
 
   <br>
