@@ -83,18 +83,18 @@
   <p>
     개발 공부 정리를 올려두는 <a href="https://bluewind8791.github.io">기술 블로그</a>를 운영중입니다.
     <br>
-    시간 나는대로 내용을 더 다듬어서 <img alt="velog"
-      src="https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white" /> 로 글들을 이전하고 있습니다 😄
+    시간 나는대로 내용을 더 다듬어서 <a href="https://velog.io/@bluewind8791"><img alt="velog"
+      src="https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></A> 로 글들을 이전하고 있습니다 😄
   </p>
 
   <br>
   <h3>Contact Me</h3>
   <p>
     <!--   <img alt="velog" src="https://img.shields.io/badge/-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /> -->
-    <a href="mailto:bluewind@kakao.com"><img
-        src="https://img.shields.io/badge/-MAIL-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=bluewind@kakao.com" /></a>
     <a href="https://bluewind8791.notion.site/7547051b3f1f4d4faa6efd8bc8283bef"><img
         src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+    <a href="mailto:bluewind@kakao.com"><img
+        src="https://img.shields.io/badge/-MAIL-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=bluewind@kakao.com" /></a>
   </p>
 
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluewind8791&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
