@@ -77,7 +77,9 @@
     <img alt="Live WebPage" src="https://img.shields.io/badge/-Live WebPage-0076D6?style=for-the-badge" />
   </a>
   <br>
-  <img src="image/mukcha-mainpage.png" />
+  <a href="https://github.com/Bluewind8791/mukcha">
+    <img src="image/mukcha-mainpage.png" />
+  </a>
   <br>
   <h3>📖 BLOG 📖</h3>
   <p>
