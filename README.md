@@ -1,5 +1,3 @@
-<img
-  src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=NO EFFORT, NO RESULTS&fontSize=40" />
 
 <div align="center">
   <h3>안녕하세요! 👋</h3>
