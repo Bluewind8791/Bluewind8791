@@ -52,16 +52,18 @@
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="VSCode"
       src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
+    <img alt="IntelliJ"
+      src="https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white" />
   </p>
-  <p> 관심있거나 학습중인 기술들 </p>
-  <p>
-    <img alt="docker"
-      src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img alt="Jenkins"
-      src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+<!--   <p> 관심있거나 학습중인 기술들 </p> -->
+<!--   <p> -->
+<!--     <img alt="docker"
+      src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> -->
+<!--     <img alt="Jenkins"
+      src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> -->
 <!--     <img alt="Elasticsearch"
       src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white" /> -->
-  </p>
+<!--   </p> -->
   
   <br>
 
