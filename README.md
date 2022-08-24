@@ -24,7 +24,7 @@
   <br>
   <h3>🛠 Tech Stack 🛠</h3>
   <p>
-    Back-End 개발자로서 성장하기 위하여 알고리즘 및 아래의 기술들을 활용하며 공부하고 있습니다.
+    시니어 개발자로서 성장하기 위하여 알고리즘 및 아래의 기술들을 활용하고 공부하고 있습니다.
   </p>
   <p>
     <img alt="java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -66,18 +66,23 @@
   <br>
 
   <h3>⌨ Main Project ⌨</h3>
-  <h3><strong>먹챠(MUKCHA)</strong></h3>
-  <p>프랜차이즈 메뉴 평가 및 기록 서비스</p>
-  <a href="https://github.com/Bluewind8791/mukcha">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub Code-20C997?style=for-the-badge&logo=GitHub&logoColor=white" />
-  </a>
-  <a href="http://ec2-3-39-16-219.ap-northeast-2.compute.amazonaws.com/">
-    <img alt="Live WebPage" src="https://img.shields.io/badge/-Live WebPage-0076D6?style=for-the-badge" />
-  </a>
-  <br>
-  <a href="https://github.com/Bluewind8791/mukcha">
-    <img src="image/mukcha-mainpage.png" />
-  </a>
+  <details>
+    <summary>
+      <h3><strong>먹챠(MUKCHA)</strong></h3>
+      <p>프랜차이즈 메뉴 평가 및 기록 서비스</p>
+    </summary>
+    <a href="https://github.com/Bluewind8791/mukcha">
+      <img alt="GitHub" src="https://img.shields.io/badge/-GitHub Code-20C997?style=for-the-badge&logo=GitHub&logoColor=white" />
+    </a>
+    <a href="http://ec2-3-39-16-219.ap-northeast-2.compute.amazonaws.com/">
+      <img alt="Live WebPage" src="https://img.shields.io/badge/-Live WebPage-0076D6?style=for-the-badge" />
+    </a>
+    <br>
+    <a href="https://github.com/Bluewind8791/mukcha">
+      <img src="image/mukcha-mainpage.png" />
+    </a>
+  </details>
+  
   <br>
   <h3>📖 BLOG 📖</h3>
   <p>
