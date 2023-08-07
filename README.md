@@ -1,9 +1,8 @@
-
 <div align="center">
   <h3>안녕하세요! 👋</h3>
 
   <p>
-    개발자로써의 제2의 인생을 꿈꾸는 주니어🌱 개발자입니다.
+    개발자로써의 제2의 인생을 살아가고있는 주니어🌱 개발자 입니다.
   </p>
 
   <details>
@@ -21,53 +20,63 @@
       저는 나이에 상관없이 변화를 두려워 하지않고 꾸준히 학습하여 본인의 스킬을 계속 향상시킬 수 있는 개발자가 되고 싶습니다.
     </p>
   </details>
+  
   <br>
+  
   <h3>🛠 Tech Stack 🛠</h3>
   <p>
-    시니어 개발자로서 성장하기 위하여 알고리즘 및 아래의 기술들을 활용하고 공부하고 있습니다.
+    아래의 기술들을 활용하고 있으며, 시니어 개발자로서 성장하기 위하여 공부하고 있습니다.
   </p>
   <p>
     <img alt="java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    <img alt="spring"
-      src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img alt="spring boot"
-      src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-    <img alt="spring security"
-      src="https://img.shields.io/badge/-Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-    <img alt="spring data jpa" src="https://img.shields.io/badge/-Spring Data JPA-6DB33F?style=for-the-badge" />
+    <img alt="spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img alt="spring boot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img alt="spring security" src="https://img.shields.io/badge/-Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<!--     <img alt="spring data jpa" src="https://img.shields.io/badge/-Spring Data JPA-6DB33F?style=for-the-badge" /> -->
     <br>
-    <img alt="aws" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img alt="travis" src="https://img.shields.io/badge/-Travis CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-    <br>
+    <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+<!--     <img alt="travis" src="https://img.shields.io/badge/-Travis CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" /> -->
+<!--     <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white" /> -->
+<!--     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" /> -->
+<!--     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" /> -->
+<!--     <br>
     <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap5-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap5-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" /> -->
   </p>
+  
   <p> Tools </p>
   <p>
+    <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img alt="SVN" src="https://img.shields.io/badge/-SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="VSCode"
-      src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
-    <img alt="IntelliJ"
-      src="https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white" />
+    <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white" />
+    <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+    <!--     <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" /> -->
   </p>
 <!--   <p> 관심있거나 학습중인 기술들 </p> -->
 <!--   <p> -->
 <!--     <img alt="docker"
       src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> -->
-<!--     <img alt="Jenkins"
-      src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> -->
 <!--     <img alt="Elasticsearch"
       src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white" /> -->
 <!--   </p> -->
   
   <br>
 
-  <h3>⌨ Main Project ⌨</h3>
+  <h3>💼 Portfolio 💼</h3>
+  <details>
+    <summary>
+      <h3><strong>ERP 추가개발</strong></h3>
+      <p>중장비 판매, 렌탈, 서비스 업체</p>
+    </summary>
+    중장비를 해외에서 수입하여 국내 판매, 렌탈 사업을 하고있는 고객사의 ERP 추가개발 프로젝트.
+  </details>
+
+  <br>
+  
+  <h3>🕹 Side Project 🕹</h3>
   <details>
     <summary>
       <h3><strong>먹챠(MUKCHA)</strong></h3>
@@ -103,7 +112,5 @@
     <a href="mailto:bluewind@kakao.com"><img
         src="https://img.shields.io/badge/-MAIL-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=bluewind@kakao.com" /></a>
   </p>
-
-  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluewind8791&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
